@@ -1,0 +1,7 @@
+C:\Users\karol\source\repos\FirmaC#\FirmaC#\obj\Debug\FirmaC#.csproj.AssemblyReference.cache
+C:\Users\karol\source\repos\FirmaC#\FirmaC#\obj\Debug\FirmaC#.csproj.CoreCompileInputs.cache
+C:\Users\karol\source\repos\FirmaC#\FirmaC#\bin\Debug\FirmaC#.exe.config
+C:\Users\karol\source\repos\FirmaC#\FirmaC#\bin\Debug\FirmaC#.exe
+C:\Users\karol\source\repos\FirmaC#\FirmaC#\bin\Debug\FirmaC#.pdb
+C:\Users\karol\source\repos\FirmaC#\FirmaC#\obj\Debug\FirmaC#.exe
+C:\Users\karol\source\repos\FirmaC#\FirmaC#\obj\Debug\FirmaC#.pdb
