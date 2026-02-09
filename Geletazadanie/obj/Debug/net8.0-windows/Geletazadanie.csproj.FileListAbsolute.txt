@@ -1,0 +1,4 @@
+C:\Users\uczen\source\repos\Geletazadanie\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\uczen\source\repos\Geletazadanie\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\uczen\source\repos\Geletazadanie\obj\Debug\net8.0-windows\Geletazadanie_MarkupCompile.cache
+C:\Users\uczen\source\repos\Geletazadanie\obj\Debug\net8.0-windows\Geletazadanie_MarkupCompile.lref
