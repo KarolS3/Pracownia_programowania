@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "InznFabryka_Abstrakcyjna/1.0.0": {
+        "runtime": {
+          "InznFabryka_Abstrakcyjna.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InznFabryka_Abstrakcyjna/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

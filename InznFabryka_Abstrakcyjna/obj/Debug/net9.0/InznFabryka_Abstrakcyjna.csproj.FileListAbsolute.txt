@@ -1,0 +1,14 @@
+C:\Users\Matura\Documents\Visual Studio 2022\InznFabryka_Abstrakcyjna\obj\Debug\net9.0\InznFabryka_Abstrakcyjna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matura\Documents\Visual Studio 2022\InznFabryka_Abstrakcyjna\obj\Debug\net9.0\InznFabryka_Abstrakcyjna.AssemblyInfoInputs.cache
+C:\Users\Matura\Documents\Visual Studio 2022\InznFabryka_Abstrakcyjna\obj\Debug\net9.0\InznFabryka_Abstrakcyjna.AssemblyInfo.cs
+C:\Users\Matura\Documents\Visual Studio 2022\InznFabryka_Abstrakcyjna\obj\Debug\net9.0\InznFabryka_Abstrakcyjna.csproj.CoreCompileInputs.cache
+C:\Users\Matura\Documents\Visual Studio 2022\InznFabryka_Abstrakcyjna\bin\Debug\net9.0\InznFabryka_Abstrakcyjna.exe
+C:\Users\Matura\Documents\Visual Studio 2022\InznFabryka_Abstrakcyjna\bin\Debug\net9.0\InznFabryka_Abstrakcyjna.deps.json
+C:\Users\Matura\Documents\Visual Studio 2022\InznFabryka_Abstrakcyjna\bin\Debug\net9.0\InznFabryka_Abstrakcyjna.runtimeconfig.json
+C:\Users\Matura\Documents\Visual Studio 2022\InznFabryka_Abstrakcyjna\bin\Debug\net9.0\InznFabryka_Abstrakcyjna.dll
+C:\Users\Matura\Documents\Visual Studio 2022\InznFabryka_Abstrakcyjna\bin\Debug\net9.0\InznFabryka_Abstrakcyjna.pdb
+C:\Users\Matura\Documents\Visual Studio 2022\InznFabryka_Abstrakcyjna\obj\Debug\net9.0\InznFabryka_Abstrakcyjna.dll
+C:\Users\Matura\Documents\Visual Studio 2022\InznFabryka_Abstrakcyjna\obj\Debug\net9.0\refint\InznFabryka_Abstrakcyjna.dll
+C:\Users\Matura\Documents\Visual Studio 2022\InznFabryka_Abstrakcyjna\obj\Debug\net9.0\InznFabryka_Abstrakcyjna.pdb
+C:\Users\Matura\Documents\Visual Studio 2022\InznFabryka_Abstrakcyjna\obj\Debug\net9.0\InznFabryka_Abstrakcyjna.genruntimeconfig.cache
+C:\Users\Matura\Documents\Visual Studio 2022\InznFabryka_Abstrakcyjna\obj\Debug\net9.0\ref\InznFabryka_Abstrakcyjna.dll
