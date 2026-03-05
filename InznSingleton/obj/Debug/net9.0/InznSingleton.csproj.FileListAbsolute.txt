@@ -1,0 +1,14 @@
+C:\Users\Matura\Documents\Visual Studio 2022\InznSingleton\obj\Debug\net9.0\InznSingleton.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matura\Documents\Visual Studio 2022\InznSingleton\obj\Debug\net9.0\InznSingleton.AssemblyInfoInputs.cache
+C:\Users\Matura\Documents\Visual Studio 2022\InznSingleton\obj\Debug\net9.0\InznSingleton.AssemblyInfo.cs
+C:\Users\Matura\Documents\Visual Studio 2022\InznSingleton\obj\Debug\net9.0\InznSingleton.csproj.CoreCompileInputs.cache
+C:\Users\Matura\Documents\Visual Studio 2022\InznSingleton\bin\Debug\net9.0\InznSingleton.exe
+C:\Users\Matura\Documents\Visual Studio 2022\InznSingleton\bin\Debug\net9.0\InznSingleton.deps.json
+C:\Users\Matura\Documents\Visual Studio 2022\InznSingleton\bin\Debug\net9.0\InznSingleton.runtimeconfig.json
+C:\Users\Matura\Documents\Visual Studio 2022\InznSingleton\bin\Debug\net9.0\InznSingleton.dll
+C:\Users\Matura\Documents\Visual Studio 2022\InznSingleton\bin\Debug\net9.0\InznSingleton.pdb
+C:\Users\Matura\Documents\Visual Studio 2022\InznSingleton\obj\Debug\net9.0\InznSingleton.dll
+C:\Users\Matura\Documents\Visual Studio 2022\InznSingleton\obj\Debug\net9.0\refint\InznSingleton.dll
+C:\Users\Matura\Documents\Visual Studio 2022\InznSingleton\obj\Debug\net9.0\InznSingleton.pdb
+C:\Users\Matura\Documents\Visual Studio 2022\InznSingleton\obj\Debug\net9.0\InznSingleton.genruntimeconfig.cache
+C:\Users\Matura\Documents\Visual Studio 2022\InznSingleton\obj\Debug\net9.0\ref\InznSingleton.dll
